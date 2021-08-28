@@ -8,8 +8,10 @@ education: Information Security at Posts and Telecommunications Institute of Tec
 job: Penetration Tester Internship
 company: FPT Software / Cyber Security Assurance Service
 
-technical_interests: ["Cryptography", "Network", "Penetration Testing", "Exploitation", "Forensics"]
-currently_learning: ["HackTheBox", "TryHackMe", "RootMe", "PortSwigger Academy"]
+technical_interests: ["Cryptography", "Network", "Penetration Testing", 
+                      "Exploitation", "Forensics"]
+currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
+                     "PortSwigger Academy"]
 
 relocation_interests: ["Japan", "Singapore"]
 ```
