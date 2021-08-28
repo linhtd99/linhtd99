@@ -10,6 +10,7 @@ company: FPT Software / Cyber Security Assurance Service
 
 technical_interests: ["Cryptography", "Network", "Penetration Testing", 
                       "Exploitation", "Forensics"]
+                      
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
 
