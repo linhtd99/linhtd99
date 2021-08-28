@@ -13,6 +13,4 @@ technical_interests: ["Cryptography", "Network", "Penetration Testing",
                       
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
-
-relocation_interests: ["Japan", "Singapore"]
 ```
