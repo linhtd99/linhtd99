@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!.</h1>
 
-<!--
-**linhtd99/linhtd99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Duc Linh Tran
+located_in: Ha Noi, Viet Nam
+from: Viet Nam
+education: Information Security at Posts and Telecommunications Institute of Technology, Viet Nam (2017 - present)
+job: Penetration Tester Internship
+company: FPT Software / Cyber Security Assurance Service
 
-Here are some ideas to get you started:
+technical_interests: ["Cryptography", "Network", "Penetration Testing", "Exploitation", "Forensics"]
+currently_learning: ["HackTheBox", "TryHackMe", "RootMe", "PortSwigger Academy"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+relocation_interests: ["Japan", "Singapore"]
+```
