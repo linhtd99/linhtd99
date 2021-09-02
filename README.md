@@ -14,5 +14,3 @@ technical_interests: ["Cryptography", "Network", "Penetration Testing",
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
 ```
-
-![linhtd99's github stats](https://github-readme-stats.vercel.app/api?username=linhtd99&show_icons=true&hide_border=true)
