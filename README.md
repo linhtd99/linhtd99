@@ -14,3 +14,4 @@ technical_interests: ["Cryptography", "Network", "Penetration Testing",
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
 ```
+<script src="https://www.hackthebox.eu/badge/56695"></script>
