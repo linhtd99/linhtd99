@@ -12,3 +12,5 @@ bio: Cyber Security passionate, love to learn
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
 ```
+
+![image](https://tryhackme-badges.s3.amazonaws.com/linhtd99.png)
