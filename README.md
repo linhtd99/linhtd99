@@ -13,4 +13,6 @@ currently_learning: ["HackTheBox", "TryHackMe", "RootMe",
                      "PortSwigger Academy"]
 ```
 
-![image](https://tryhackme-badges.s3.amazonaws.com/linhtd99.png)
+![THM](https://i.imgur.com/JwYO827.png)
+![HTB](https://i.imgur.com/aRxRa60.png)
+
