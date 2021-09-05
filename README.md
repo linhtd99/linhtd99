@@ -8,11 +8,13 @@ education: Cyber Security at PTIT, Viet Nam (2017 - present)
 job: Penetration Tester Intern
 company: FPT Software / Cyber Security Assurance Service
 
-bio: Cyber Security passionate, love to learn        
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
+                     
+bio: Cyber Security passionate 🐱‍👤  
+
 ```
 
-![THM](https://i.imgur.com/JwYO827.png)
-![HTB](https://i.imgur.com/aRxRa60.png)
+[![THM](https://i.imgur.com/pWkX3xo.png)](https://tryhackme.com/p/linhtd99)
+[![HTB](https://i.imgur.com/2bUrXDA.png)](https://app.hackthebox.eu/profile/486215)
 
