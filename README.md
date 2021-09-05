@@ -15,6 +15,6 @@ bio: Cyber Security passionate 🐱‍👤
 
 ```
 
-[![THM](https://i.imgur.com/pWkX3xo.png)](https://tryhackme.com/p/linhtd99)
+[![THM](https://i.imgur.com/8mXJ0dG.png)](https://tryhackme.com/p/linhtd99)
 [![HTB](https://i.imgur.com/2bUrXDA.png)](https://app.hackthebox.eu/profile/486215)
 
