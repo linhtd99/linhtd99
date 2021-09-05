@@ -2,18 +2,11 @@
 
 ```yaml
 name: Duc Linh Tran
-located_in: Ha Noi, Viet Nam
-from: Viet Nam
+from: Ha Noi, Viet Nam
 education: Information Security at Posts and Telecommunications Institute of Technology, Viet Nam (2017 - present)
-job: Penetration Tester Internship
+job: Penetration Tester Intern
 company: FPT Software / Cyber Security Assurance Service
-
-technical_interests: ["Cryptography", "Network", "Penetration Testing", 
-                      "Exploitation", "Forensics"]
-                      
+                     
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
                      "PortSwigger Academy"]
 ```
-<a href="https://www.hackthebox.eu/profile/415817" target="_blank">
-  <img src="https://www.hackthebox.eu/badge/56695" alt="Hack The Box" >
-</a>
