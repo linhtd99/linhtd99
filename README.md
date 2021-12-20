@@ -5,7 +5,7 @@ name: Duc Linh Tran
 from: Ha Noi, Viet Nam
 born_in: 1999
 education: Cyber Security at PTIT, Viet Nam (2017 - present)
-job: Penetration Tester Intern
+job: Penetration Tester
 company: FPT Software / Cyber Security Assurance Service
 
 currently_learning: ["HackTheBox", "TryHackMe", "RootMe", 
@@ -14,7 +14,3 @@ currently_learning: ["HackTheBox", "TryHackMe", "RootMe",
 bio: Cyber Security passionate 🐱‍👤  
 
 ```
-
-[![THM](https://i.imgur.com/Uu5c8cW.png)](https://tryhackme.com/p/linhtd99)
-[![HTB](https://i.imgur.com/2bUrXDA.png)](https://app.hackthebox.eu/profile/486215)
-
